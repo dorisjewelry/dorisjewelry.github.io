@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Useful &#8211; Aura Design Group | Transforming Spaces, Elevating Lives.</title>
-	<atom:link href="http://localhost/category/useful/feed/?simply_static_page=6015" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/useful/feed/?simply_static_page=6674" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>aura design; interior design; home staging</description>
 	<lastBuildDate>Fri, 06 May 2022 17:50:10 +0000</lastBuildDate>
@@ -22,6 +22,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/favicon-1.png</url>
+	<title>Useful &#8211; Aura Design Group | Transforming Spaces, Elevating Lives.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Amet Commodo Nulla Facilisi Vehicula Ipsum</title>
 		<link>/amet-commodo-nulla-facilisi-vehicula-ipsum/</link>
